@@ -1,0 +1,25 @@
+/*these styles apply to the whole page*/
+body{
+    background-color: rgb(33, 134, 216);
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+/*Heading 1*/
+h1{
+    color: rgb(104, 95, 95);
+    text-align: center;
+    
+}
+/*Heading 2*/
+h2{
+    color: darkblue;
+}
+/*Heading 3*/
+h3{
+    color: lavender;
+}
+/*Paragraph style*/
+p{
+    font-size: larger;
+    text-align: justify;
+}
